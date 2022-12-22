@@ -760,15 +760,6 @@ Config.Vehicles = {
         name = "2012 Jeep Wrangler",
         hash = -1691715558,
     },
-    ['675lt'] = {
-        brand = "mclaren",
-        shop = "pdm",
-        model = "675lt",
-        price = 120000,
-        category = "sports",
-        name = "2016 McLaren 675LT Coupe",
-        hash = -1088481501,
-    },
     ['m3f80'] = {
         brand = "bmw",
         shop = "pdm",
